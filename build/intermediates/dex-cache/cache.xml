@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/ace/AndroidStudioProjects/TodoList/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/home/ace/AndroidStudioProjects/TodoList/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.1_6c36d53d522af3bc2cd35e7ec34aa810dc412117/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ace/AndroidStudioProjects/TodoList/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/home/ace/AndroidStudioProjects/TodoList/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.1_c5f0903ff169c956c59813bd639d2a396a10c8dd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ace/AndroidStudioProjects/TodoList/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/home/ace/AndroidStudioProjects/TodoList/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_cd7aacd57317766fdb720dec648f788609226e04/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ace/AndroidStudioProjects/TodoList/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ad3cff4a467c9163fe66ebcddc5aad9da9434e1b">
+        <dex dex="/home/ace/AndroidStudioProjects/TodoList/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_ee4e235f96e7dcf858a4b16ca79159a6f2760104/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ace/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/home/ace/AndroidStudioProjects/TodoList/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.1_a11e3114448ade34239a3c553fcfbc73dc619153/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ace/AndroidStudioProjects/TodoList/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/home/ace/AndroidStudioProjects/TodoList/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_4cf0ac99e86dc476f628d91c09f20acd8ecb4cce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ace/AndroidStudioProjects/TodoList/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/home/ace/AndroidStudioProjects/TodoList/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_0b85aeea4e09518dbfb405ffe125c60282b0089f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ace/AndroidStudioProjects/TodoList/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/home/ace/AndroidStudioProjects/TodoList/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.1_b584a40724da06cb03835757ee4345136c40bd44/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ace/AndroidStudioProjects/TodoList/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/home/ace/AndroidStudioProjects/TodoList/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.1_b0c465c4af8ebcb442f67a599f0cfa9a68f889ee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ace/AndroidStudioProjects/TodoList/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/home/ace/AndroidStudioProjects/TodoList/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.1_8c7839c1218f3fcc2c1fab061d4f35b07ce92ef8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ace/AndroidStudioProjects/TodoList/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/ace/AndroidStudioProjects/TodoList/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_ed16c6eadf4434b120715fae5de66fecb85a6bb1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ace/AndroidStudioProjects/TodoList/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="019e55a24d0b6f8e6579b713dbb16611dcf0d1ff">
+        <dex dex="/home/ace/AndroidStudioProjects/TodoList/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_289303f3581bebb5a0f90346b74de7e9cf5be69e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ace/AndroidStudioProjects/TodoList/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/ace/AndroidStudioProjects/TodoList/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.1_2e6fa4dfbfc8d6171d63ada6ac039bd4324cec2c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ace/AndroidStudioProjects/TodoList/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/home/ace/AndroidStudioProjects/TodoList/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.1_d858018504d3a7eb0c743e665a58860357148d69/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ace/AndroidStudioProjects/TodoList/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/home/ace/AndroidStudioProjects/TodoList/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.1_537e1d3c869b27be5d54067b5b36ab6f4119b1da/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ace/AndroidStudioProjects/TodoList/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/home/ace/AndroidStudioProjects/TodoList/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.1_2760058e75124fe3464cb78ebb909525707741e1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ace/AndroidStudioProjects/TodoList/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/home/ace/AndroidStudioProjects/TodoList/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_f692ca820c38cf3780c695bc76cc84538339cf80/classes.dex" />
+    </item>
+
+</items>
